@@ -29,7 +29,7 @@ func main() {
 	//declare multiple variabel
 	var (
 		firstname = "Zaki"
-		lastname  = "Khairi Ziwar"
+		lastname  = "KhairiZiwar"
 	)
 
 	fmt.Println(firstname, lastname)
