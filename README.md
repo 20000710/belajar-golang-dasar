@@ -1,7 +1,7 @@
 # belajar-golang-dasar
 
 ## Setup GOPATH & Workspace
-Link: (https://dasarpemrogramangolang.novalagung.com/A-gopath-dan-workspace.html)
+Link: [Golang Setup](https://dasarpemrogramangolang.novalagung.com/A-gopath-dan-workspace.html)
 
 
 ## Tutorial video
