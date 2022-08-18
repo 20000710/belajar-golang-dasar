@@ -1,7 +1,11 @@
 # belajar-golang-dasar
 
+## Setup GOPATH & Workspace
+Link: (https://dasarpemrogramangolang.novalagung.com/A-gopath-dan-workspace.html)
+
+
 ## Tutorial video
 
 Programmer Zaman Now: [ProgrammerZamanNow](https://www.youtube.com/c/ProgrammerZamanNow)
 
-![ProgrammerZamanNow Logo](https://yt3.ggpht.com/ytc/AMLnZu-B5H9U10Bc3pKEao-dK9KosxIWYbc-aibrgRAeJQ=s900-c-k-c0x00ffffff-no-rj)
+![ProgrammerZamanNow Logo](https://www.programmerzamannow.com/img/pzn.png)
